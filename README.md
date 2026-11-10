@@ -1,10 +1,15 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Maxens Sevilla · Designer UI/UX et développeur web · BUT MMI 3, IUT de Béziers" />
+  <a href="https://maxx-j.github.io"><img src="./assets/banner.svg" width="100%" alt="Maxens Sevilla · Designer UI/UX et développeur web · BUT MMI 3, IUT de Béziers" /></a>
 </p>
 
 <p align="center">
   Je conçois des interfaces dans Figma, puis je les code.<br/>
   Entre les deux, un peu de 3D, de VR et de motion design.
+</p>
+
+<p align="center">
+  <a href="https://maxx-j.github.io"><img src="https://img.shields.io/badge/VOIR%20MON%20PORTFOLIO-FF8A3D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Voir mon portfolio" /></a>
+  <a href="mailto:sevilla.maxens@gmail.com"><img src="https://img.shields.io/badge/ME%20CONTACTER-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Me contacter" /></a>
 </p>
 
 <br/>
